@@ -307,9 +307,6 @@ export default class Pokemon extends Component {
               </div>
             </div>
           </div>
-          <div class="card-footer text-muted button">
-            <a href="" class={Button}> Home </a>
-          </div>
         </div>
       </div>
     );
